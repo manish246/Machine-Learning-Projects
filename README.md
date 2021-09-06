@@ -69,3 +69,7 @@ We have to find the minimum value for smoothening parameter in our model for whi
 In holt method we will consider the Trend component of the Time series data which was not there in SES model, to apply this technique we will consider only trend component not seasonality. We have two smoothening parameter Alpha and Beta which is Level and Trend component, Respectively. For using Holt, we will holt function which is holt ().
 We have also plotted the Graph in Fig. 15. for for Beta minimum and RMSE at that smoothening parameter and it can clearly visualize the beta value which we have is 0.034 at RMSE value of 547
 ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Holt.PNG)
+
+## of the Models for Overseas Trips Data
+For comparing the Model, we have plotted the check residual graph for each model, and we have compared the ACF graph in each model. In SES and Holt Model have spike crossed the dash lines which means Auto Correlation exist and in Holt Winter Model we can see none of the spikes touches the dashed line means there is no auto corelation in the Holt-winter Model. So, from this point of View the Holt winter model is best. Fig. 24 shows the same.
+![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/both%20Models.PNG)
