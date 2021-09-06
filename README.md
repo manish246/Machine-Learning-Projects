@@ -64,3 +64,8 @@ From September month there is gradual decrease in the number of Trips in Ireland
 The first model which we have implemented is simple smoothening model (SES) in our Overseas Trips Dataset. The SES is used where there is no trend or no season effect, but as discussed above we have both trends and season present in our dataset.first we have to remove that for that we have first find out the order of differencing in Training set which can be find out by ndiff function.
 We have to find the minimum value for smoothening parameter in our model for which we have used loop. We are passing the value of alpha from 0.01 to 0.99 to get the value of alpha at minimum RMSE The value of alpha which we got from the loop is 0.01 and a minimum RMSE of 734.We have also plotted graph Minimum alpha at minimum RMSE. The Fig. 6. Shows the same in which we can see that we are getting alpha as 0.01 at 734 RMSE
 ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/SES.PNG)
+
+## HOLT’S METHOD
+In holt method we will consider the Trend component of the Time series data which was not there in SES model, to apply this technique we will consider only trend component not seasonality. We have two smoothening parameter Alpha and Beta which is Level and Trend component, Respectively. For using Holt, we will holt function which is holt ().
+We have also plotted the Graph in Fig. 15. for for Beta minimum and RMSE at that smoothening parameter and it can clearly visualize the beta value which we have is 0.034 at RMSE value of 547
+![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Holt.PNG)
