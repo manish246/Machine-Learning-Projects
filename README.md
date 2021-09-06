@@ -44,9 +44,18 @@ From the Analysis we can Predict that California state has maximum no of Covid 1
 
 # Project 2:Analysis of Time series and Logistic Regression using R
 ## Assessment of the components of the raw time series
+The Project contains different Python Notebook files as shown below:
+1. Arima Model.R
+2. Holt_model.R
+3. Holt_winter_model.R
+4. Naive model.R
+5. SES model.R
+6. R file with pCA.R
+
 
 Note:The Fig. 1. shows of raw time series data which depicts a trend with gradual increase in Trips from abroad. The Centre moving average plot removes effect of seasonality to show clear increasing Trend. The plot not only shows the trends also shows for better forecast we have to consider seasonality and trends both in this case
+  ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Trends.PNG)
 
 
-
-From September month there is gradual decrease in the number of Trips in Ireland from abroad. Also, one more interesting finding is the no of trips to Ireland is increasing from 2012 to 2019
+From September month there is gradual decrease in the number of Trips in Ireland from abroad. Also, one more interesting finding is the no of trips to Ireland is increasing from 2012 to 2019.
+![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/seasonal%20Plots.PNG)
