@@ -38,3 +38,6 @@ We have Chosen Multi linear regression Model as we have many predictors and our 
 Increasing rise in covid-19 cases, deaths, probable cases and deaths has huge implications on the particular county, as more and more peoples get infected, the virus starts to mutate and become resistant to vaccinations. The analysis we did showed that among different states as shown in Fig. 12. , the total deaths among peoples over 65 years is highest in **California**, followed by Arizona implicating that elderly persons are more impacted by virus.
 
 ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Total%20no%20of%20deaths.PNG)
+
+### Conclusions
+From the Analysis we can Predict that California state has maximum no of Covid 19 deaths also it has second highest death counts for various other diseases like Pneumonia and Influenza. The most interesting finding is California also accounts for maximum no of death count of elderly people of Age more than 65 years due to Covid
