@@ -82,3 +82,6 @@ In Model 2 also we will first import the dataset and then split into Training an
 
 We have also plotted Correlogram to visualize the corelation matrix which will be showing the component of PCA and they corelation. From Fig. 43 we can see the components are positively corelated as its blue in colour.
 ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/correlation.PNG)
+
+we have implemented the final Logistic model with PCA implemented and we have used seven components in our model which in total contributes about 80 percent of the variability in whole dataset after that it became constant. We have also plotted the Residual vs leverage graph in which. The residuals should not change as function of leverage. We can see no points lies outside the cook distance line which is dashed red line
+![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/final.PNG)
