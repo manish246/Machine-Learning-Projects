@@ -59,3 +59,8 @@ Note:The Fig. 1. shows of raw time series data which depicts a trend with gradua
 
 From September month there is gradual decrease in the number of Trips in Ireland from abroad. Also, one more interesting finding is the no of trips to Ireland is increasing from 2012 to 2019.
 ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/seasonal%20Plots.PNG)
+
+## SIMPLE EXPONENTIAL SMOOTHENING
+The first model which we have implemented is simple smoothening model (SES) in our Overseas Trips Dataset. The SES is used where there is no trend or no season effect, but as discussed above we have both trends and season present in our dataset.first we have to remove that for that we have first find out the order of differencing in Training set which can be find out by ndiff function.
+We have to find the minimum value for smoothening parameter in our model for which we have used loop. We are passing the value of alpha from 0.01 to 0.99 to get the value of alpha at minimum RMSE The value of alpha which we got from the loop is 0.01 and a minimum RMSE of 734.We have also plotted graph Minimum alpha at minimum RMSE. The Fig. 6. Shows the same in which we can see that we are getting alpha as 0.01 at 734 RMSE
+![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/SES.PNG)
