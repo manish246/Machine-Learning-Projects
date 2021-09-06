@@ -79,3 +79,6 @@ The Main Aim of using PCA is to Identify specific pattern, detect correlation be
 
 In Model 2 also we will first import the dataset and then split into Training and Test set. Now next thing we have to get the number of Components required to build PCA. Which is obtained here by Plotting the graph for showing variability between the component of the dataset. Fig. 38. Clearly shows also highlighted with yellow the component from 1 to 7 constitutes around 80 percent of the variability of the data and then it became constant. So we can use only 7 component for our model building.
 ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/logistics%20regression.PNG)
+
+We have also plotted Correlogram to visualize the corelation matrix which will be showing the component of PCA and they corelation. From Fig. 43 we can see the components are positively corelated as its blue in colour.
+![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/correlation.PNG)
