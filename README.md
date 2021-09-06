@@ -3,7 +3,7 @@
 ## Project 1: Analyzing Covid-19 Deaths in Patients with Different Conditions among Various Counties in the United States of America.
 
 The Project contains different Python Notebook files as shown below:
-1.x19229887_Dataset1_DAP.ipynb
+1. x19229887_Dataset1_DAP.ipynb
 2.x19229887_dataset2_dap.ipynb
 3.database.ini
 4.config.py
