@@ -31,7 +31,7 @@ deaths followed by California which accounts for 8.9 percent of the total deaths
 
 Illinois has the highest number of Confirmed cases with numbers exceeding more than 100 million, but has a lower number of Probable cases, whereas on the other hand Virginia with the state code VA has a large number of Probable cases close to 9 million as shown in Fig. 3.
 
-![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid 19%20Datasets/Confirmed%20and%20Probable%20Cases.PNG)
+![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Confirmed%20and%20Probable%20Cases.PNG)
 
 We have Chosen Multi linear regression Model as we have many predictors and our intention to predict to new probable cases. We have got Adjusted R square of More than 90 percent.
 ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Regression%20Model.PNG)
