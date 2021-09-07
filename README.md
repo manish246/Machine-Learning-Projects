@@ -41,7 +41,7 @@ Increasing rise in covid-19 cases, deaths, probable cases and deaths has huge im
 ### Conclusions
 From the Analysis we can Predict that California state has maximum no of Covid 19 deaths also it has second highest death counts for various other diseases like Pneumonia and Influenza. The most interesting finding is California also accounts for maximum no of death count of elderly people of Age more than 65 years due to Covid.
 
-# Project 2:Analysis of Time series and Logistic Regression using R
+# [Project 2:Analysis of Time series and Logistic Regression using R] (https://github.com/manish246/Time-series-Analysis)
 ## Assessment of the components of the raw time series
 The Project contains different Python Notebook files as shown below:
 1. Arima Model.R
