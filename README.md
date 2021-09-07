@@ -5,10 +5,8 @@
 The Project contains different Python Notebook files as shown below:
 1. x19229887_Dataset1_DAP.ipynb
 2. x19229887_dataset2_dap.ipynb
-3. database.ini
-4. config.py
-5. Joined_Datasets_Model_Buildup_Visulaization.ipynb
-6. Master_Python_Notebook.ipynb
+3. Joined_Datasets_Model_Buildup_Visulaization.ipynb
+4. Master_Python_Notebook.ipynb
 
 The 3rd and 4th Notebook files are "x19229887_Dataset1_DAP.ipynb" and "x19229887_dataset2_dap.ipynb" which conatined seprate datasets on which analysis has been performed individually.
 1. In the both file API is being called for fetching the data.
