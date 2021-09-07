@@ -41,7 +41,7 @@ Increasing rise in covid-19 cases, deaths, probable cases and deaths has huge im
 ### Conclusions
 From the Analysis we can Predict that California state has maximum no of Covid 19 deaths also it has second highest death counts for various other diseases like Pneumonia and Influenza. The most interesting finding is California also accounts for maximum no of death count of elderly people of Age more than 65 years due to Covid.
 
-# [Project 2:Analysis of Time series and Logistic Regression using R](https://github.com/manish246/Time-series-Analysis)
+# Project 2:Analysis of Time series and Logistic Regression using R
 ## Assessment of the components of the raw time series
 The Project contains different Python Notebook files as shown below:
 1. Arima Model.R
@@ -67,7 +67,7 @@ We have to find the minimum value for smoothening parameter in our model for whi
 ## HOLT’S METHOD
 In holt method we will consider the Trend component of the Time series data which was not there in SES model, to apply this technique we will consider only trend component not seasonality. We have two smoothening parameter Alpha and Beta which is Level and Trend component, Respectively. For using Holt, we will holt function which is holt ().
 We have also plotted the Graph in Fig. 15. for for Beta minimum and RMSE at that smoothening parameter and it can clearly visualize the beta value which we have is 0.034 at RMSE value of 547
-![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Holt.PNG)
+![image](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Holt.PNG)
 
 ## of the Models for Overseas Trips Data
 For comparing the Model, we have plotted the check residual graph for each model, and we have compared the ACF graph in each model. In SES and Holt Model have spike crossed the dash lines which means Auto Correlation exist and in Holt Winter Model we can see none of the spikes touches the dashed line means there is no auto corelation in the Holt-winter Model. So, from this point of View the Holt winter model is best. Fig. 24 shows the same.
