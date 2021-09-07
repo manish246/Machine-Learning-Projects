@@ -26,7 +26,7 @@ Finally the Master_Python_Notebook.ipynb contains the code to execute the entire
 
 **New York City** has highest no of Deaths due to influenza which was around 6411 followed by California which accounts to 5470 deaths due to influenza. The **Texas** state has the 3rd highest deaths in U.S.A. below Pie chart as shown in Fig. 5. drawn with the help of Plotly libraries shows the same. From the Pie chart also, we can conclude the same as its clearly visible New York City Contributes 10.2 percent of the total influenza
 deaths followed by California which accounts for 8.9 percent of the total deaths due to influenza.
-![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Influenza%20deaths.PNG)
+![image](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Influenza%20deaths.PNG)
 
 Illinois has the highest number of Confirmed cases with numbers exceeding more than 100 million, but has a lower number of Probable cases, whereas on the other hand Virginia with the state code VA has a large number of Probable cases close to 9 million as shown in Fig. 3.
 
@@ -54,7 +54,7 @@ The Project contains different Python Notebook files as shown below:
 
 
 Note:The Fig. 1. shows of raw time series data which depicts a trend with gradual increase in Trips from abroad. The Centre moving average plot removes effect of seasonality to show clear increasing Trend. The plot not only shows the trends also shows for better forecast we have to consider seasonality and trends both in this case
-  ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Trends.PNG)
+  ![image](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Trends.PNG)
 
 
 From September month there is gradual decrease in the number of Trips in Ireland from abroad. Also, one more interesting finding is the no of trips to Ireland is increasing from 2012 to 2019.
