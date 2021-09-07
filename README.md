@@ -26,11 +26,12 @@ Finally the Master_Python_Notebook.ipynb contains the code to execute the entire
 
 **New York City** has highest no of Deaths due to influenza which was around 6411 followed by California which accounts to 5470 deaths due to influenza. The **Texas** state has the 3rd highest deaths in U.S.A. below Pie chart as shown in Fig. 5. drawn with the help of Plotly libraries shows the same. From the Pie chart also, we can conclude the same as its clearly visible New York City Contributes 10.2 percent of the total influenza
 deaths followed by California which accounts for 8.9 percent of the total deaths due to influenza.
+
 ![image](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Influenza%20deaths.PNG)
 
 Illinois has the highest number of Confirmed cases with numbers exceeding more than 100 million, but has a lower number of Probable cases, whereas on the other hand Virginia with the state code VA has a large number of Probable cases close to 9 million as shown in Fig. 3.
 
-![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Confirmed%20and%20Probable%20Cases.PNG)
+![image](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid 19%20Datasets/Confirmed%20and%20Probable%20Cases.PNG)
 
 We have Chosen Multi linear regression Model as we have many predictors and our intention to predict to new probable cases. We have got Adjusted R square of More than 90 percent.
 ![](https://github.com/manish246/Machine-Learning-Projects/blob/main/Images%20for%20Data%20analysis%20Performed%20on%20Covid-19%20Datasets/Regression%20Model.PNG)
