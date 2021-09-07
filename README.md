@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-## Project 1: Analyzing Covid-19 Deaths in Patients with Different Conditions among Various Counties in the United States of America.
+## [Project 1: Analyzing Covid-19 Deaths in Patients with Different Conditions among Various Counties in the United States of America.](https://github.com/manish246/Database-and-analytics-programming)
 
 The Project contains different Python Notebook files as shown below:
 1. x19229887_Dataset1_DAP.ipynb
